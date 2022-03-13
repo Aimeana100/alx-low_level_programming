@@ -1,7 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+/**
+ *  main - Entry code
+ *  Description: prints "last digit"
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
