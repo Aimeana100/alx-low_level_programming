@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main - prints the alphabet in lower case,
- *   * followed by a new line
- *    * Return: Alwyas (0)
- *     */
+ *  main - prints the alphabet in lower case,
+ *  followed by a new line
+ *  Return: Alwyas (0)
+ */
 int main(void)
 {
 	char ch;
