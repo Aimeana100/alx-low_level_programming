@@ -1,7 +1,7 @@
 #include"main.h"
 /**
  * print_sign - main entry function
- * description : checks 
+ * description : checks
  * @n : the ansci code character to be checked
  * Return: -1,1,0
  */
