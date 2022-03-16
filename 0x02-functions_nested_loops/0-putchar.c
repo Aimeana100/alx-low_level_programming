@@ -1,5 +1,10 @@
-#include "main.h"
+#include"main.h"
 
+/**
+ * main blocks
+ * Description : prints a _putchar
+ * Return: 0
+ * /
 int main(void)
 {
 	char c[8] = "_putchar";
