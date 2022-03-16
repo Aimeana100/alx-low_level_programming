@@ -4,18 +4,7 @@
  * description : checks a lowercase letter
  * Return: 0
  */
-int main(void)
+int _islower(int c)
 {
-	int c;
-
-	if ( _islower(c))
-	{
-		return (1);
-	}
-	else
-	{
-		return (0);
-	}
-	_putchar('\n');
-	return (0);
+	return (c >= 97 && c <= 122);
 }
