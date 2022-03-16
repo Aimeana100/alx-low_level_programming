@@ -14,6 +14,8 @@ int _islower(int c);
 int _isalpha(int c);
 
 /*  print tjhe sign */
-int print_sign(int n)
+int print_sign(int n);
 
+/* print absolute */
+int _abs(int)
 
