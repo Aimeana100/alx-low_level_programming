@@ -2,7 +2,7 @@
 /**
  * main - main entry blocks
  * description : Prints alphabetics from a to z
- * with prototype void print_alphabet_x10(void);
+ * with prototype print_alphabet_x10(void);
  * Return: 0
  */
 int main(void)
@@ -13,7 +13,9 @@ int main(void)
 
 void print_alphabet_x10(void)
 {
-	for (char c = 'a'; c <= 'z'; c++)
+	char c;
+
+	for (c = 'a'; c <= 'z'; c++)
 	{
 		_putchar(c);
 	}
