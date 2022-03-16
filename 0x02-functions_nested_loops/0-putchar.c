@@ -1,11 +1,10 @@
 #include"main.h"
-
 /**
- * main blocks
- * Description : prints a _putchar
+ * main - main entry blocks
+ * description : Prints an emulated functional
+ * performance of putchar using _putchar
  * Return: 0
  */
- 
 int main(void)
 {
 	char c[8] = "_putchar";
