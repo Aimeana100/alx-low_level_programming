@@ -13,3 +13,8 @@ int _islower(int c);
 /* checks for alphabet */
 int _isalpha(int c);
 
+/*  print tjhe sign */
+int print_sign(int c)
+
+
+
