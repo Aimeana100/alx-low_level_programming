@@ -14,7 +14,7 @@ int _islower(int c);
 int _isalpha(int c);
 
 /*  print tjhe sign */
-int print_sign(int c)
+int print_sign(int n)
 
 
 
