@@ -4,11 +4,13 @@
  * description : checks a lowercase letter
  * Return: 0
  */
-int _islower(int c)
+int main(void)
 {
-	if (islower(c))
+	int c;
+
+	if ( _islower(c))
 	{
-		return (1);
+		retur (1);
 	}
 	else
 	{
