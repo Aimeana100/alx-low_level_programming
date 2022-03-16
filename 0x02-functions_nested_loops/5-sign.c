@@ -10,16 +10,22 @@ int print_sign(int c)
 	if(c < 0)
 	{
 		_putchar('-');
+		_putchar(',');
+		_putchar(' ');
 		return (-1);
 	}
 	else if(c > 0)
 	{
 		_putchar('+');
+		_putchar(',');
+		_putchar(' ');
 		return (1);
 	}
 	else
 	{
 		_putchar('0');
+		_putchar(',');
+		_putchar(' ');
 		return (1);
 	}
 }
