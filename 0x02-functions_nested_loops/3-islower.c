@@ -10,7 +10,7 @@ int main(void)
 
 	if ( _islower(c))
 	{
-		retur (1);
+		return (1);
 	}
 	else
 	{
