@@ -1,13 +1,29 @@
-include"main.h"
+#include "main.h"
+#include <stdio.h>
+
 /**
- * add - returns the sum of its parameters
- * @a: int type number
- * @b: int type number
- * Return:0
+ * print_to_98 - prints all the natural numbers from n to 98
+ *
+ * @n: interger to be tested
+ * Return: list of numbers
  */
-
-
-int add(int a, int b)
+void print_to_98(int n)
 {
-return (a + b);
+	int i;
+
+	if (n <= 98)
+	{
+		for (i = n; i < 98; i++)
+		{
+			printf("%i, ", i);
+		}
+	}
+	else
+	{
+		for (i = n; i > 98; i--)
+		{
+			printf("%i, ", i);
+		}
+	}
+	printf("98\n");
 }
