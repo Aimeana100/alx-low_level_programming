@@ -33,3 +33,9 @@ int add(int a, int b);
 
 /* print natural numbers up to 92 */
 void print_to_98(int n);
+
+/* 100 */
+void print_times_table(int n);
+
+/*101 */
+
