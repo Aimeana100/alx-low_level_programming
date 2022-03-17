@@ -28,3 +28,5 @@ void jack_bauer(void);
 /* 9 tables */
 void times_table(void);
 
+/* adds two numbers */
+int add(int, int);
