@@ -25,3 +25,6 @@ int print_last_digit(int);
 /* prints every minutes of a day */
 void jack_bauer(void);
 
+/* 9 tables */
+void times_table(void);
+
