@@ -5,6 +5,7 @@
  * description : check that a character is an upper case character
  * return : 0,1
  */
+
 int _isupper(int c)
 {
 	if (c >= 65 && c <= 90)
