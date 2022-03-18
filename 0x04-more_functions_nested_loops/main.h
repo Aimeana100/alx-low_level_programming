@@ -11,3 +11,6 @@ int mul(int a, int b);
 
 /* print number */
 void print_numbers(void);
+
+/* print number 0-9 skipping 2 and 4 */
+void print_most_numbers(void);
