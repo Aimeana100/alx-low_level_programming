@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * _isupper - functional block
- * description : checks if a character is upper
- * case
+ * _isupper - check the code
+ * description : check that a character is an upper case character
+ * return : 0,1
  */
-
 int _isupper(int c)
 {
 	if (c >= 65 && c <= 90)
