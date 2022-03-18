@@ -8,3 +8,6 @@ int _isdigit(int c);
 
 /* multiply 2 numbers */
 int mul(int a, int b);
+
+/* print number */
+void print_numbers(void);
