@@ -17,3 +17,10 @@ void print_most_numbers(void);
 
 /* print 10 times the numbers, from 0 to 14 */
 void more_numbers(void);
+
+/* drow stright line */
+void print_line(int n);
+
+
+/* print diagonal */
+void print_diagonal(int n);
