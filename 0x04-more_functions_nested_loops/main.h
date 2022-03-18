@@ -14,3 +14,6 @@ void print_numbers(void);
 
 /* print number 0-9 skipping 2 and 4 */
 void print_most_numbers(void);
+
+/* print 10 times the numbers, from 0 to 14 */
+void more_numbers(void);
