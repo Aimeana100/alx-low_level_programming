@@ -24,3 +24,9 @@ void puts2(char *str);
 
 /* function that prints half of a string, followed by a new line. */
 void puts_half(char *str);
+
+/* 8*/
+void print_array(int *a, int n);
+
+/*9*/
+char *_strcpy(char *dest, char *src);
