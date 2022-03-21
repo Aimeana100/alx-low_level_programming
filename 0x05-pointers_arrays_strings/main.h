@@ -16,3 +16,5 @@ void _puts(char *str);
 /* print a string in reverse */
 void print_rev(char *s);
 
+/* write a reverse string */
+void rev_string(char *s);
