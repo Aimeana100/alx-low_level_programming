@@ -4,7 +4,7 @@
  * _strlen - function block
  * descrption: the function that return the length of a string
  * @s: a pointer to a string or array of characters
- * return: count
+ * Return: count
  */
 
 int _strlen(char *s)
