@@ -5,6 +5,7 @@
  * description : function that takes a pointer
  * to an int as paramenter and updates the value
  *  it points to 98
+ *  @n: parameter n to ckeck on
  *  return: void
  */
 
