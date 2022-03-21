@@ -10,7 +10,7 @@ void print_rev(char *s)
 {
 	int count = 0;
 
-	char stringArr[] = *s;
+	char stringArr = *s;
 
 	while (*s != '\0')
 	{
