@@ -10,15 +10,16 @@ void print_rev(char *s)
 {
 	int count = 0;
 
-	char stringArr = *s;
-
 	while (*s != '\0')
 	{
 		count++;
 		s++;
 	}
-	while(count > 0)
+
+	for(int i = count; i >= 0; i--)
 	{
-		_putchar(stringArr[count--]);
+		_putchar(*(s+i));
 	}
+	_putchar('\n');
+
 }
