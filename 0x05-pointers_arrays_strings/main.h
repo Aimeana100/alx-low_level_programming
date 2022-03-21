@@ -18,3 +18,9 @@ void print_rev(char *s);
 
 /* write a reverse string */
 void rev_string(char *s);
+
+/* 6-puts2.c */
+void puts2(char *str);
+
+/* function that prints half of a string, followed by a new line. */
+void puts_half(char *str);
