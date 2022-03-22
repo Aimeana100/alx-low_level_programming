@@ -30,3 +30,6 @@ void print_array(int *a, int n);
 
 /*9*/
 char *_strcpy(char *dest, char *src);
+
+/* advanced */
+int _atoi(char *s);
