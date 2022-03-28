@@ -22,3 +22,5 @@ void print_chessboard(char (*a)[8]);
 /* sum of the two diagonals of a square matrix of integers */
 void print_diagsums(int *a, int size);
 
+/*  */
+void set_string(char **s, char *to)
