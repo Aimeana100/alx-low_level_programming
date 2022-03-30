@@ -23,3 +23,9 @@ int is_prime_number(int n);
 
 /* task 7  */
 
+
+
+/* square */
+int square(int n, int val);
+
+
