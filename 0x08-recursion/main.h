@@ -28,4 +28,7 @@ int is_prime_number(int n);
 /* square */
 int square(int n, int val);
 
+/* prime */
+check_prime(int n, 2);
+
 
