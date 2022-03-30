@@ -29,6 +29,5 @@ int is_prime_number(int n);
 int square(int n, int val);
 
 /* prime */
-check_prime(int n, 2);
-
+int check_prime(int n, int resp);
 
