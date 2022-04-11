@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - main block
- * return: 0
+ * main - main block print a filename
+ * return: always 0 at success
  */
 
 int main(void)
