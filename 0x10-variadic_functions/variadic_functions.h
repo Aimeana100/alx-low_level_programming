@@ -1,6 +1,6 @@
 /**
  * @file variadic_functions.h
- * @author Anathole ((aimeanathole@gmail.com)
+ * @author Animeana100 (aimeanathole@gmail.com)
  * @brief Header file
  * @version 0.1
  * @date 2022-04-14
