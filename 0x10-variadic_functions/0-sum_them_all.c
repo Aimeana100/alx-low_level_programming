@@ -1,12 +1,3 @@
-/**
- * @file 0-sum_them_all.c
- * @author Muhabeid (muhabeid@gmail.com)
- * @brief Sum them all
- * @version 0.1
- * @date 2022-04-14
- * @copyright Copyright (c) 2022
- *
- */
 #include "variadic_functions.h"
 
 /**
