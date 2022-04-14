@@ -1,13 +1,3 @@
-/**
- * @file variadic_functions.h
- * @author Animeana100 (aimeanathole@gmail.com)
- * @brief Header file
- * @version 0.1
- * @date 2022-04-14
- *
- * @copyright Copyright (c) 2022
- *
- */
 #ifndef VARIADIC_H
 #define VARIADIC_H
 #include <stdarg.h>
