@@ -4,9 +4,9 @@
  * @brief Header file
  * @version 0.1
  * @date 2022-04-14
- * 
+ *
  * @copyright Copyright (c) 2022
- * 
+ *
  */
 #ifndef VARIADIC_H
 #define VARIADIC_H
