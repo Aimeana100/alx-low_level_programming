@@ -1,12 +1,12 @@
 /**
  * @file 3-print_all.c
- * @author Muhabeid (muhabeid@gmail.com)
+ * @author Aimeana100 (aimeanathole@gmail.com)
  * @brief Print All
  * @version 0.1
  * @date 2022-04-14
- * 
+ *
  * @copyright Copyright (c) 2022
- * 
+ *
  */
 #include "variadic_functions.h"
 #include <stdlib.h>
