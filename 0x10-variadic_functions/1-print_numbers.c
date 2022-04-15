@@ -1,6 +1,6 @@
 /**
  * @file 1-print_numbers.c
- * @author Muhabeid (muhabeid@gmail.com)
+ * @author Aimeana100 (aimeanathole@gmail.com)
  * @brief Print numbers
  * @version 0.1
  * @date 2022-04-14
